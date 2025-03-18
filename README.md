@@ -44,7 +44,7 @@ Creado con 💖 por una mujer apasionada por la programación y el diseño. 🌷
 
 ## 🌐 Dirección web
 
-[https://harsidaena.github.io/amigoSecreto/](https://tu-direccion.com)
+[Amigo Secreto WebSite](https://harsidaena.github.io/amigoSecreto/)
 
 ---
 
